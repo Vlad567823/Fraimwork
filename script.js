@@ -1,4 +1,4 @@
-const keys = ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'o', 'w'];
+const keys = ['w', 'a', 's', 'd', 'q', 'e', 'r', 'f',];
 
     let currentKeyIndex = 0;
 
